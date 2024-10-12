@@ -2,18 +2,23 @@ package lab4;
 
 public interface Delivery {
 	/**
-	 * getTutor String method
+	 * getTutor String method 
+	 * 		-> @return String value
 	 * 
-	 * setTutor void method
+	 * setTutor void method 
+	 * 		-> uses String tutor args
 	 * 
-	 * getRoom String method
 	 * 
-	 * getRoom void method
+	 * getRoom String method 
+	 * 		-> @return String value
+	 * 
+	 * setRoom void method 
+	 * 		-> uses String room args
+	 * 
 	 */
 	String getTutor();
-	void setTutor(String tutor);
+	void setTutor(String tutor) throws SubjectException;
+	
 	String getRoom();
-	void setRoom(String room);
-	String getSubName();
-	void setSubName(String subName);
+	void setRoom(String room) throws SubjectException;
 }
