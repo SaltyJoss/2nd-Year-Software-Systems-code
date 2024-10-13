@@ -28,6 +28,11 @@
 
 ## Week 4 - Exception Handling Mechanisms
 
+### LAB_exe:
+- Exception handling and creation
+- Looks at defining your own exceptions, extending the 'Exception' class
+- Seems small now, is very useful for debugging on any size application / software
+- Javadoc was made a priority
 
 ## Week 5 - Automated testing and Test Driven Development (TDD)
 
