@@ -14,7 +14,7 @@ public class Driver {
 		
 		int len = ap.getArrayLength(new String[] {"One", "Two", "Three"}); // using the .getArrayLength() method
 		
-		System.out.println("Length: " + len);
+		System.out.println("Length: " + len); // outputs length of array
 		System.out.println("Menu selected: \n" + menuOpt.toString());
 	}
 

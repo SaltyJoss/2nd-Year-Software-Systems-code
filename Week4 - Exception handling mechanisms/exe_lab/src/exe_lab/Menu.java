@@ -15,8 +15,8 @@ public class Menu {
 		this.opt = opt;
 		
 		switch(opt) {
-			case 1:
-				optNo = opt;
+			case 1: // case for each menu option
+				optNo = opt; 
 				break;
 			case 2:
 				optNo = opt;
@@ -25,11 +25,17 @@ public class Menu {
 				optNo = opt;
 				break;
 			default:
-				throw new InvalidOptionException("ERROR: Invalid Option selected!");
+				throw new InvalidOptionException("ERROR: Invalid Option selected!"); // default is to throw exception
 				
 		}
 	}
-	
+	/**
+	 * toString method to display message, specifically, menu option
+	 * 
+	 * creates new window if exception is found, uses try{}catch{}
+	 * 
+	 * @return string
+	 */
 	public String toString() {
 		String message = "Invalid Option selected!";
 		
