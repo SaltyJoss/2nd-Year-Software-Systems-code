@@ -4,7 +4,7 @@
 ### ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
 
 ### ![Java Logo](assets/icons/icons8-java.svg)Java JDK/SE 23:
-- [**Home-Page**](https://docs.oracle.com/en/java/javase/23/)
+- [**Home Page**](https://docs.oracle.com/en/java/javase/23/)
 - [**Documentation**](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
 - [**Download**](https://www.oracle.com/uk/java/technologies/downloads/)
 
@@ -18,20 +18,20 @@
 - [Home-Page](https://eclipseide.org/)
 - [Documentation](https://help.eclipse.org/2024-09/index.jsp)
 - **Downloads**
-  - [All Languages](https://www.eclipse.org/downloads/packages/installer)
-  - [Java](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
+  - [*All Languages*](https://www.eclipse.org/downloads/packages/installer)
+  - [*Java*](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
 
 ### ![IntelliJ IDEA Logo](assets/icons/icons8-intellij-idea.svg) IntelliJ IDEA:
 - [Home-Page](https://www.jetbrains.com/idea/)
 - [Documentation](https://www.jetbrains.com/idea/resources/)
 - **Downloads**
-  - [All Languages](https://www.jetbrains.com/idea/download/other.html)
-  - [Java](https://www.jetbrains.com/idea/download/?section=linux)
+  - [*All Languages*](https://www.jetbrains.com/idea/download/other.html)
+  - [*Java*](https://www.jetbrains.com/idea/download/?section=linux)
 
 ### ![NetBeans Logo](assets/icons/icons8-apache-netbeans.svg) NetBeans:
 - [Home-Page](https://netbeans.apache.org/front/main/index.html)
 - [Documentation](https://bits.netbeans.org/dev/javadoc/)
-- **Download** -> [NetBeans Download](https://netbeans.apache.org/front/main/download)
+- [Download](https://netbeans.apache.org/front/main/download)
 
 ### Module Summary
 
