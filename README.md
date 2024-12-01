@@ -1,13 +1,12 @@
 # **2nd-Year-Software-Systems-code**
 
-### Links:
-- **GitHub**                -> [![GitHub Logo](assets/icons/icons8-github-40.svg)](https://github.com/SaltyJoss)
-- **LinkedIn**              -> [![LinkedIn](assets/icons/icons8-linkedin.svg)](https://www.linkedin.com/in/joss-salton-153a5b157)
-  
+### ![GitHub Logo](assets/icons/icons8-github-40.svg) [GitHub](https://github.com/SaltyJoss)
+### ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
+
 ### Java JDK/SE 23:
-- **Home-Page**             -> [<img src="assets/icons/icons8-java.svg" alt="Oracle Logo" width="40" height="40"/>](https://docs.oracle.com/en/java/javase/23/)
-- **Documentation**          -> [<img src="assets/icons/information-box.svg" alt="Java Docs" width="40" height="40"/>](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
-- **Download**              -> [<img src="assets/icons/download-box.svg" alt="Download Box" width="40" height="40"/>](https://www.oracle.com/uk/java/technologies/downloads/)
+- **Home-Page** -> [Oracle](https://docs.oracle.com/en/java/javase/23/)
+- **Documentation** -> [Java Docs](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
+- **Download** -> [Oracle Download](https://www.oracle.com/uk/java/technologies/downloads/)
 
 ## *Personal* IDE Recommendations
 
@@ -15,28 +14,30 @@
 >
 > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
 
-### Eclipse:
-- **Home-Page**  [<img src="assets/icons/icons8-java-eclipse-40.svg" alt="Eclipse Logo" width="40" height="40"/>](https://eclipseide.org/)
-- **Documentation** [<img src="assets/icons/information-box.svg" alt="Eclipse Documentation" width="40" height="40"/>](https://help.eclipse.org/2024-09/index.jsp)
+### ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:
+- [Home-Page](https://eclipseide.org/)
+- [Documentation](https://help.eclipse.org/2024-09/index.jsp)
 - **Downloads**
-  - *General Installer* [<img src="assets/icons/download-box.svg" alt="Download Box" width="40" height="40"/>](https://www.eclipse.org/downloads/packages/installer)
-  - *Java-specific IDE* [<img src="assets/icons/download-box.svg" alt="Eclipse Java Download" width="40" height="40"/>](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
+  - [All Languages](https://www.eclipse.org/downloads/packages/installer)
+  - [Java](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
 
-### IntelliJ IDEA:
-- **Home-Page** [<img src="assets/icons/icons8-intellij-idea.svg" alt="IntelliJ IDEA Logo" width="40" height="40"/>](https://www.jetbrains.com/idea/)
-- **Documentation** [<img src="assets/icons/information-box.svg" alt="IntelliJ Docs" width="40" height="40"/>](https://www.jetbrains.com/idea/resources/)
+### ![IntelliJ IDEA Logo](assets/icons/icons8-intellij-idea.svg) IntelliJ IDEA:
+- [Home-Page](https://www.jetbrains.com/idea/)
+- [Documentation](https://www.jetbrains.com/idea/resources/)
 - **Downloads**
-  - *Other languages* [<img src="assets/icons/download-box.svg" alt="IntelliJ Download" width="40" height="40"/>](https://www.jetbrains.com/idea/download/other.html)
-  - *Java-specific IDE* [<img src="assets/icons/download-box.svg" alt="IntelliJ Java" width="40" height="40"/>](https://www.jetbrains.com/idea/download/?section=linux)
+  - [All Languages](https://www.jetbrains.com/idea/download/other.html)
+  - [Java](https://www.jetbrains.com/idea/download/?section=linux)
 
-### NetBeans:
-- **Home-Page** [<img src="assets/icons/icons8-apache-netbeans.svg" alt="NetBeans Logo" width="40" height="40"/>](https://netbeans.apache.org/front/main/index.html)
-- **Documentation** [<img src="assets/icons/information-box.svg" alt="NetBeans Docs" width="40" height="40"/>](https://bits.netbeans.org/dev/javadoc/)
-- **Download** -> [<img src="assets/icons/download-box.svg" alt="NetBeans Download" width="40" height="40"/>](https://netbeans.apache.org/front/main/download)
+### ![NetBeans Logo](assets/icons/icons8-apache-netbeans.svg) NetBeans:
+- [Home-Page](https://netbeans.apache.org/front/main/index.html)
+- [Documentation](https://bits.netbeans.org/dev/javadoc/)
+- **Download** -> [NetBeans Download](https://netbeans.apache.org/front/main/download)
 
 ### Module Summary
 
->Within this module, we are aiming to extend on my University's Level 4 'Object Orientated Programming' module, by focussing on more function, and, advanced programming techniques surrounding software systems, using the JAVA. We look into many different Java / OOP *(Most concepts and algorithms are compatible with other OOP languages, there's just a syntax shift)* practices, and concepts that are utilised on all scales. We mainly code the small, very basic ideas, knowing that it's largely transferrable with much larger code-sets. Additionally, the weekly lab work, and given resources, allow for development in [*Computational-Thinking*](https://www.markdownguide.org/extended-syntax/#heading-ids), understanding and relating [**Syntax**](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax) against other languages, and general ability to [*Problem Solve*](https://en.wikipedia.org/wiki/Problem_solving). The Exams are split into two seperate assessments[^1], are both are worth 50% of the final grade.
+>Within this module, we are aiming to extend on my University's Level 4 'Object Orientated Programming' module, by focusing on more functional and advanced programming techniques surrounding software systems, using JAVA. We look into many different Java / OOP *(Most concepts and algorithms are compatible with other OOP languages, there's just a syntax shift)* practices, and concepts that are utilized on all scales. We mainly code small, very basic ideas, knowing that it's largely transferable with much larger code-sets. Additionally, the weekly lab work, and given resources, allow for development in [**Computational-Thinking***](https://www.markdownguide.org/extended-syntax/#heading-ids), understanding and relating [**Syntax**](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)) against other languages, and general ability to [**Problem Solve**](https://en.wikipedia.org/wiki/Problem_solving). 
+
+The Exams are split into two separate assessments[^1], both worth 50% of the final grade.
 
 #### [^1] **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise<br> **Component 2**: (1 hour) Timed Lab-Based exam
   
@@ -52,9 +53,9 @@
   ### **Community-Driven resources**
   > Double check answers
   [Stack Overflow](https://stackoverflow.com/)
-  > Use if you understand syntax but can't find correct code
+  > Use if you understand syntax but can't find the correct code
   [GitHub Repos](https://github.com/trending/java)
-  > Great an intuative
+  > Great and intuitive
   [W3Schools](https://www.w3schools.com/java/)
   > W3Schools but different
   [GeeksforGeeks](https://www.geeksforgeeks.org/java/w)
@@ -131,15 +132,12 @@
       - [Lab_12](Week10\ -\ Functional\ Programming/lab12/src)
       - [Lab_13](Week10\ -\ Functional\ Programming/lab13/src)
 
-
 ## Week 11 - Practice Assessment
 
-  ### Exam Preperation:
-    - Will Be adding after completetion
+  ### Exam Preparation:
+    - Will be added after completion
 
-    
----
 
 ### Disclaimer
 
-All internal / external resources linked in this repository, such as PDFs or other materials, are the property of [Leeds Beckett University](https://www.leedsbeckett.ac.uk/). The code and scripts within this repository are my original work, unless otherwise stated.
+All internal/external resources linked in this repository, such as PDFs or other materials, are the property of [Leeds Beckett University](https://www.leedsbeckett.ac.uk/). The code and scripts within this repository are my original work unless otherwise stated.
