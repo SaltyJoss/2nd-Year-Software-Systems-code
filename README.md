@@ -3,10 +3,10 @@
 ### ![GitHub Logo](assets/icons/icons8-github-40.svg) [GitHub](https://github.com/SaltyJoss)
 ### ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
 
-### Java JDK/SE 23:
-- **Home-Page** -> [Oracle](https://docs.oracle.com/en/java/javase/23/)
-- **Documentation** -> [Java Docs](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
-- **Download** -> [Oracle Download](https://www.oracle.com/uk/java/technologies/downloads/)
+### ![Java Logo](assets/icons/icons8-java.svg)Java JDK/SE 23:
+- [**Home-Page**](https://docs.oracle.com/en/java/javase/23/)
+- [**Documentation**](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
+- [**Download**](https://www.oracle.com/uk/java/technologies/downloads/)
 
 ## *Personal* IDE Recommendations
 
@@ -39,7 +39,7 @@
 
 The Exams are split into two separate assessments[^1], both worth 50% of the final grade.
 
-#### [^1] **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise<br> **Component 2**: (1 hour) Timed Lab-Based exam
+#### [^1]: **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise<br> **Component 2**: (1 hour) Timed Lab-Based exam
   
   **README.md Summary**
   - Links to socials, useful resources
@@ -65,77 +65,77 @@ The Exams are split into two separate assessments[^1], both worth 50% of the fin
 ## Week 1 - Key Concepts of OOP
 
   ### LAB 1
-    - Covers Week 1 Labs
-    - Source Files 
-      - [Lab_1](Week1\ -\ Key\ Concepts\ of\ OOP/lab1/src)
+  - Covers Week 1 Labs
+  - Source Files 
+    - [Lab_1](Week1\ -\ Key\ Concepts\ of\ OOP/lab1/src)
 
 ## Week 2 - Defining and Implementing Interfaces
   
   ### LAB 2:
-    - Covers Week 2 Labs
-    - Source Files 
-      - [Lab_2](Week2\ -\ Defining\ and\ Implementing\ Interfaces/lab2/src)
+  - Covers Week 2 Labs
+  - Source Files 
+    - [Lab_2](Week2\ -\ Defining\ and\ Implementing\ Interfaces/lab2/src)
 
 ## Week 3 - Documentation and Structure
 
   ### LAB 3:
-    - Covers Week 3 Labs
+  - Covers Week 3 Labs
   ### LAB 4:
-    - Covers Week 3/4/5/6 extra task
-    - Source Files 
-      - [Lab_3](Week3\ -\ Conventions,\ Commenting\ using\ JavaDoc/lab3/src)
-      - [Lab_4](Week3\ -\ Conventions,\ Commenting\ using\ JavaDoc/lab4/src)
+  - Covers Week 3/4/5/6 extra task
+  - Source Files 
+    - [Lab_3](Week3\ -\ Conventions,\ Commenting\ using\ JavaDoc/lab3/src)
+    - [Lab_4](Week3\ -\ Conventions,\ Commenting\ using\ JavaDoc/lab4/src)
 
 ## Week 4 - Exception Handling Mechanisms
 
   ### LAB_exe:
-    - Covers Week 4 Labs
-    - Source Files 
-      - [Lab_exe](Week4\ -\ Exception\ handling\ mechanisms/exe_lab/src)
+  - Covers Week 4 Labs
+  - Source Files 
+    - [Lab_exe](Week4\ -\ Exception\ handling\ mechanisms/exe_lab/src)
 
 ## Week 5 - Automated testing and Test Driven Development (TDD)
 
   ### LAB 5:
-    - Covers Week 5 Labs
-    - Source Files 
-      - [Lab_5](Week5\ -\ Automated\ testing\ and\ TDD/lab5/src)
+  - Covers Week 5 Labs
+  - Source Files 
+    - [Lab_5](Week5\ -\ Automated\ testing\ and\ TDD/lab5/src)
 
 ## Week 6/7 - Collections
 
   ### LAB 6 / 7:
-    - Covers Week 6 labs
-    - Source Files 
-      - [Lab_6](Wee6+7\ -\ Collections/lab6/src)
-      - [Lab_7](Wee6+7\ -\ Collections/lab7/src)
+  - Covers Week 6 labs
+  - Source Files 
+    - [Lab_6](Wee6+7\ -\ Collections/lab6/src)
+    - [Lab_7](Wee6+7\ -\ Collections/lab7/src)
 
 ## Week 8 - Further Collections
 
   ### LAB 8 / 9:
-    - Covers Week 8 Labs
-    - Source Files 
-      - [Lab_8](Week8\ -\ Further\ Collections/lab8/src)
-      - [Lab_9](Week8\ -\ Further\ Collections/lab9/src)
+  - Covers Week 8 Labs
+  - Source Files 
+    - [Lab_8](Week8\ -\ Further\ Collections/lab8/src)
+    - [Lab_9](Week8\ -\ Further\ Collections/lab9/src)
 
 ## Week 9 - Searching and Sorting
 
   ### LAB 10 / 11:
-    - Covers Week 9 Labs
-    - Source Files 
-      - [Lab_10](Week9\ -\ Searching\ and\ Sorting/lab10/src)
-      - [Lab_11](Week9\ -\ Searching\ and\ Sorting/lab11/src)
+  - Covers Week 9 Labs
+  - Source Files 
+    - [Lab_10](Week9\ -\ Searching\ and\ Sorting/lab10/src)
+    - [Lab_11](Week9\ -\ Searching\ and\ Sorting/lab11/src)
 
 ## Week 10 - Functional Programming
 
   ### LAB 12 / 13:
-    - Covers Week 10 Labs
-    - Source Files 
-      - [Lab_12](Week10\ -\ Functional\ Programming/lab12/src)
-      - [Lab_13](Week10\ -\ Functional\ Programming/lab13/src)
+  - Covers Week 10 Labs
+  - Source Files 
+    - [Lab_12](Week10\ -\ Functional\ Programming/lab12/src)
+    - [Lab_13](Week10\ -\ Functional\ Programming/lab13/src)
 
 ## Week 11 - Practice Assessment
 
   ### Exam Preparation:
-    - Will be added after completion
+  - Will be added after completion
 
 
 ### Disclaimer
