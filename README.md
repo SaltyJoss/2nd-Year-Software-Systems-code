@@ -1,47 +1,44 @@
 # **2nd-Year-Software-Systems-code**
-===============================
 
-  ### Links:
-  GitHub                -> ![GitHub Logo](assets/icons/icons8-github-40.svg)(https://github.com/SaltyJoss)
-  LinkedIn              -> ![LinkedIn](assets/icons/icons8-linkedin.svg)(https://www.linkedin.com/in/joss-salton-153a5b157)
-    
-  ### Java JDK/SE 23:
-  Home-Page             -> ![Oracle Logo](assets/icons/icons8-java.svg)(https://docs.oracle.com/en/java/javase/23/)
-  Documenation          -> ![Java Logo](assets/icons/information-box.svg)(https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
-                        -> ![Java Logo](assets/icons/information-box.svg)(https://docs.oracle.com/en/java/javase/23/docs/api/index.html)
-                        -> ![Java Logo](assets/icons/information-box.svg)(https://en.wikipedia.org/wiki/List_of_Java_keywords)
-  Download              -> ![Oracle Logo](assets/icons/download-box.svg)(https://www.oracle.com/uk/java/technologies/downloads/)
-    
-  ## *Personal* IDE Recommendations
+### Links:
+- **GitHub**                -> ![GitHub Logo](assets/icons/icons8-github-40.svg) [GitHub](https://github.com/SaltyJoss)
+- **LinkedIn**              -> ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
   
-  > ####*Disclaimer*
-  >
-  > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
-  
-  ### Eclipse: 
-  [Home-Page](https://eclipseide.org/)             -> ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg)(https://eclipseide.org/)
-  [Documentation](https://help.eclipse.org/2024-09/index.jsp)         -> ![Eclipse Logo](assets/icons/information-box.svg)(https://help.eclipse.org/2024-09/index.jsp)
-  **Downloads**
-  &emsp;[All languages](https://www.eclipse.org/downloads/packages/installer)   -> ![Java Logo](assets/icons/download-box.svg)(https://www.eclipse.org/downloads/packages/installer)
-  &emsp;[Java](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)    -> ![Eclipse Logo](assets/icons/download-box.svg)(https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
+### Java JDK/SE 23:
+- **Home-Page**             -> ![Oracle Logo](assets/icons/icons8-java.svg) [Oracle JDK](https://docs.oracle.com/en/java/javase/23/)
+- **Documentation**          -> ![Java Logo](assets/icons/information-box.svg) [API Docs](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
+- **Download**              -> ![Download Box](assets/icons/download-box.svg) [Java Download](https://www.oracle.com/uk/java/technologies/downloads/)
 
-  ### Intellij
-  [Home-Page](https://www.jetbrains.com/idea/)             -> ![IntelliJ IDEA Logo](assets/icons/icons8-intellij-idea.svg)(https://www.jetbrains.com/idea/)
-  [Documentation](https://www.jetbrains.com/idea/resources/)         -> ![IntelliJ IDEA Logo](assets/icons/information-box.svg)(https://www.jetbrains.com/idea/resources/)
-  **Downloads**
-  &emsp;[All languages](https://www.jetbrains.com/idea/download/other.html)     -> ![IntelliJ IDEA Logo](assets/icons/download-box.svg)(https://www.jetbrains.com/idea/download/other.html)
-  &emsp;[Java](https://www.jetbrains.com/idea/download/?section=linux)    -> ![Java Logo](assets/icons/download-box.svg)(https://www.jetbrains.com/idea/download/?section=linux)
-  
-  ### NetBeans
-  [Home-Page](https://netbeans.apache.org/front/main/index.html)             -> ![NetBeans Logo](assets/icons/icons8-apache-netbeans.svg)(https://netbeans.apache.org/front/main/index.html)
-  [Documentation](https://bits.netbeans.org/dev/javadoc/)        -> ![NetBeans Logo](assets/icons/information-box.svg)(https://bits.netbeans.org/dev/javadoc/)
-  [**Download**](https://netbeans.apache.org/front/main/download)              -> ![NetBeans Logo](assets/icons/download-box.svg)(https://netbeans.apache.org/front/main/download)
-  
-  **Module Summary**
-  --------------
-  <p>Within this module, we are aiming to extend on my University's Level 4 'Object Orientated Programming' module, by focussing on more function, and, advanced programming techniques surrounding software systems, using the JAVA. We look into many different Java / OOP *(Most concepts and algorithms are compatible with other OOP languages, there's just a syntax shift)* practices, and concepts that are utilised on all scales. We mainly code the small, very basic ideas, knowing that it's largely transferrable with much larger code-sets. Additionally, the weekly lab work, and given resources, allow for development in [*Computational-Thinking*](https://www.markdownguide.org/extended-syntax/#heading-ids), understanding and relating [**Syntax**](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)) against other languages, and general ability to [*Problem Solve*](https://en.wikipedia.org/wiki/Problem_solving). The Exams are split into two seperate assessments[^1], are both are worth 50% of the final grade.</p>
-  
-  [^1]: **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Excerise<br> **Component 2**: (1 hour) Timed Lab-Based exam
+## *Personal* IDE Recommendations
+
+> #### *Disclaimer*
+>
+> Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
+
+### Eclipse:
+- [Home-Page](https://eclipseide.org/) -> ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) [Eclipse Home](https://eclipseide.org/)
+- [Documentation](https://help.eclipse.org/2024-09/index.jsp) -> ![Eclipse Documentation](assets/icons/information-box.svg)
+- **Downloads**
+  - [All Languages](https://www.eclipse.org/downloads/packages/installer) -> ![Download Box](assets/icons/download-box.svg) [Eclipse Download](https://www.eclipse.org/downloads/packages/installer)
+  - [Java](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers) -> ![Eclipse Java Download](assets/icons/download-box.svg) [Eclipse Java](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
+
+### IntelliJ IDEA:
+- [Home-Page](https://www.jetbrains.com/idea/) -> ![IntelliJ IDEA Logo](assets/icons/icons8-intellij-idea.svg) [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Documentation](https://www.jetbrains.com/idea/resources/) -> ![IntelliJ Docs](assets/icons/information-box.svg)
+- **Downloads**
+  - [All Languages](https://www.jetbrains.com/idea/download/other.html) -> ![IntelliJ Download](assets/icons/download-box.svg)
+  - [Java](https://www.jetbrains.com/idea/download/?section=linux) -> ![IntelliJ Java](assets/icons/download-box.svg)
+
+### NetBeans:
+- [Home-Page](https://netbeans.apache.org/front/main/index.html) -> ![NetBeans Logo](assets/icons/icons8-apache-netbeans.svg) [NetBeans](https://netbeans.apache.org/front/main/index.html)
+- [Documentation](https://bits.netbeans.org/dev/javadoc/) -> ![NetBeans Docs](assets/icons/information-box.svg)
+- **Download** -> ![NetBeans Download](assets/icons/download-box.svg) [NetBeans Download](https://netbeans.apache.org/front/main/download)
+
+### Module Summary
+
+>Within this module, we are aiming to extend on my University's Level 4 'Object Orientated Programming' module, by focussing on more function, and, advanced programming techniques surrounding software systems, using the JAVA. We look into many different Java / OOP *(Most concepts and algorithms are compatible with other OOP languages, there's just a syntax shift)* practices, and concepts that are utilised on all scales. We mainly code the small, very basic ideas, knowing that it's largely transferrable with much larger code-sets. Additionally, the weekly lab work, and given resources, allow for development in [*Computational-Thinking*](https://www.markdownguide.org/extended-syntax/#heading-ids), understanding and relating [**Syntax**](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax) against other languages, and general ability to [*Problem Solve*](https://en.wikipedia.org/wiki/Problem_solving). The Exams are split into two seperate assessments[^1], are both are worth 50% of the final grade.
+
+#### [^1] **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise<br> **Component 2**: (1 hour) Timed Lab-Based exam
   
   **README.md Summary**
   - Links to socials, useful resources
