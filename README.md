@@ -87,14 +87,14 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   ### LAB 1
   - Covers Week 1 Labs
   - Source Files 
-  - [Lab_1](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week1%20-%20Key%20Concepts%20of%20OOP/lab1/src)
+    - [Lab_1](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week1%20-%20Key%20Concepts%20of%20OOP/lab1/src)
 
 ## Week 2 - Defining and Implementing Interfaces
   
   ### LAB 2:
   - Covers Week 2 Labs
   - Source Files 
-  - [Lab_2](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week2%20-%20Defining%20and%20Implementing%20Interfaces/lab2/src/lab2)
+    - [Lab_2](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week2%20-%20Defining%20and%20Implementing%20Interfaces/lab2/src/lab2)
 
 ## Week 3 - Documentation and Structure
 
@@ -102,8 +102,8 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   - Covers Week 3 labs
   - Covers extra task (not necessarily to be done in week 3)
   - Source Files 
-  - [Lab_3](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week3%20-%20Conventions%2C%20Commenting%20using%20JavaDoc/lab3/src/lab3)
-  - [Lab_4](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week3%20-%20Conventions%2C%20Commenting%20using%20JavaDoc/lab4/src/lab4)
+    - [Lab_3](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week3%20-%20Conventions%2C%20Commenting%20using%20JavaDoc/lab3/src/lab3)
+    - [Lab_4](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week3%20-%20Conventions%2C%20Commenting%20using%20JavaDoc/lab4/src/lab4)
 
 ## Week 4 - Exception Handling Mechanisms
 
@@ -125,8 +125,8 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   ### LAB 6 / 7:
   - Covers Week 6 labs
   - Source Files 
-  - [Lab_6](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week6%2B7%20-%20Collections/lab6/src/lab6)
-  - [Lab_7](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week6%2B7%20-%20Collections/lab7/src/lab7)
+    - [Lab_6](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week6%2B7%20-%20Collections/lab6/src/lab6)
+    - [Lab_7](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week6%2B7%20-%20Collections/lab7/src/lab7)
 
 ## Week 8 - Further Collections
 
