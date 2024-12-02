@@ -36,13 +36,13 @@
 
 >Within this module, we are aiming to extend on my University's Level 4 'Object Orientated Programming' module, by focusing on more functional and advanced programming techniques surrounding software systems, using JAVA. We look into many different Java / OOP *(Most concepts and algorithms are compatible with other OOP languages, there's just a syntax shift)* practices, and concepts that are utilized on all scales. We mainly code small, very basic ideas, knowing that it's largely transferable with much larger code-sets. Additionally, the weekly lab work, and given resources, allow for development in [**Computational-Thinking**](https://www.markdownguide.org/extended-syntax/#heading-ids), understanding and relating [**Syntax**](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)) against other languages, and general ability to [**Problem Solve**](https://en.wikipedia.org/wiki/Problem_solving). 
 
-The Exams are split into two separate assessments, both worth 50% of the final grade.
 <details>
 
 <summary>Assessment Details</summary>
 
-1. **Assessment:** *(1 hour 30 mins)* Timed UML-Based Practical Exercise
-2. **Assessment:** *(1 hour)* Timed Lab-Based exam
+The Exams are split into two separate assessments, both worth 50% of the final grade:
+  1. **Assessment:** *(1 hour 30 mins)* Timed UML-Based Practical Exercise
+  2. **Assessment:** *(1 hour)* Timed Lab-Based exam
   
 </details>
   
