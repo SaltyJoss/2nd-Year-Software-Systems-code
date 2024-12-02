@@ -98,10 +98,9 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 
 ## Week 3 - Documentation and Structure
 
-  ### LAB 3:
-  - Covers Week 3 Labs
-  ### LAB 4:
-  - Covers Week 3/4/5/6 extra task
+  ### LAB 3 / 4:
+  - Covers Week 3 labs
+  - Covers extra task (not necessarily to be done in week 3)
   - Source Files 
   - [Lab_3](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week3%20-%20Conventions%2C%20Commenting%20using%20JavaDoc/lab3/src/lab3)
   - [Lab_4](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week3%20-%20Conventions%2C%20Commenting%20using%20JavaDoc/lab4/src/lab4)
