@@ -3,7 +3,7 @@
 ### ![GitHub Logo](assets/icons/icons8-github-40.svg) [GitHub](https://github.com/SaltyJoss)
 ### ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
 
-### <img src="assets/icons/icons8-java.svg" width="60" height="40" align="left"> Java JDK/SE 23:
+### <img src="assets/icons/icons8-java.svg" alt="Java Logo" width="50" height="50" />
 
 - [**Home Page**](https://docs.oracle.com/en/java/javase/23/)
 - [**Documentation**](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
@@ -15,7 +15,7 @@
 >
 > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
 
-### ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:
+### <img src="assets/icons/icons8-java-eclipse-40.svg" alt="Eclipse Logo" width="50" height="50" />
 
 - [Home-Page](https://eclipseide.org/)
 - [Documentation](https://help.eclipse.org/2024-09/index.jsp)
@@ -23,14 +23,16 @@
   - [*All Languages*](https://www.eclipse.org/downloads/packages/installer)
   - [*Java*](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
 
-### ![IntelliJ IDEA Logo](assets/icons/icons8-intellij-idea.svg) IntelliJ IDEA:
+### <img src="assets/icons/icons8-intellij-idea.svg" alt="IntelliJ IDEA Logo" width="50" height="50" />
+
 - [Home-Page](https://www.jetbrains.com/idea/)
 - [Documentation](https://www.jetbrains.com/idea/resources/)
 - **Downloads**
   - [*All Languages*](https://www.jetbrains.com/idea/download/other.html)
   - [*Java*](https://www.jetbrains.com/idea/download/?section=linux)
 
-### ![NetBeans Logo](assets/icons/icons8-apache-netbeans.svg) NetBeans:
+### <img src="assets/icons/icons8-apache-netbeans.svg" alt="NetBeans Logo" width="50" height="50" />
+
 - [Home-Page](https://netbeans.apache.org/front/main/index.html)
 - [Documentation](https://bits.netbeans.org/dev/javadoc/)
 - [Download](https://netbeans.apache.org/front/main/download)
