@@ -1,6 +1,10 @@
 # **2nd-Year-Software-Systems-code**
 
-<a href="https://github.com/SaltyJoss"><img src="assets/icons/icons8-github-40.svg" align="center" width="75" height="75" /></a> <a href="https://www.linkedin.com/in/joss-salton-153a5b157"><img src="assets/icons/icons8-linkedin.svg" align="center" width="75" height="75" /></a>
+<p align="center">
+  <a href="https://github.com/SaltyJoss"><img src="assets/icons/icons8-github-40.svg" width="75" height="75" /></a>
+  <a href="https://www.linkedin.com/in/joss-salton-153a5b157"><img src="assets/icons/icons8-linkedin.svg" width="75" height="75" /></a>
+</p>
+
 
 ### Java JDK / SE 23: <img src="assets/icons/icons8-java.svg" alt="Java Logo" align="right" width="55" height="55" />
 - [**Home Page**](https://docs.oracle.com/en/java/javase/23/)
