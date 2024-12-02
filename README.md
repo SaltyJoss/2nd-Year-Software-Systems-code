@@ -17,15 +17,15 @@
 - [Home-Page](https://eclipseide.org/)
 - [Documentation](https://help.eclipse.org/2024-09/index.jsp)
 - **Downloads**
-  - [*All Languages*](https://www.eclipse.org/downloads/packages/installer)
-  - [*Java*](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
+  ↳ [*All Languages*](https://www.eclipse.org/downloads/packages/installer)
+  ↳ [*Java*](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
 
 ### IntelliJ: <img src="assets/icons/icons8-intellij-idea.svg" alt="IntelliJ IDEA Logo" align="right" width="50" height="50" />
 - [Home-Page](https://www.jetbrains.com/idea/)
 - [Documentation](https://www.jetbrains.com/idea/resources/)
 - **Downloads**
-  - [*All Languages*](https://www.jetbrains.com/idea/download/other.html)
-  - [*Java*](https://www.jetbrains.com/idea/download/?section=linux)
+  ↳ [*All Languages*](https://www.jetbrains.com/idea/download/other.html)
+  ↳ [*Java*](https://www.jetbrains.com/idea/download/?section=linux)
 
 ### NetBeans: <img src="assets/icons/icons8-apache-netbeans.svg" alt="NetBeans Logo" align="right" width="50" height="50" />
 - [Home-Page](https://netbeans.apache.org/front/main/index.html)
