@@ -3,7 +3,7 @@
 ### ![GitHub Logo](assets/icons/icons8-github-40.svg) [GitHub](https://github.com/SaltyJoss)
 ### ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
 
-### <img src="assets/icons/icons8-java.svg" alt="Java Logo" style="height: 24px; align: middle"> Java JDK/SE 23:
+### <img src="assets/icons/icons8-java.svg" alt="Java Logo" style="height: 24px; align: middle"> Java JDK/SE 23:♨️
 - [**Home Page**](https://docs.oracle.com/en/java/javase/23/)
 - [**Documentation**](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
 - [**Download**](https://www.oracle.com/uk/java/technologies/downloads/)
@@ -14,7 +14,11 @@
 >
 > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
 
-### ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:
+<!-- ### ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:-->
+<div style="display: flex; align-items: center;">
+  <img src="assets/icons/icons8-java.svg" alt="Java Logo" style="height: 40px; margin-right: 10px;">
+  <h3>Java JDK/SE 23:</h3>
+</div>
 - [Home-Page](https://eclipseide.org/)
 - [Documentation](https://help.eclipse.org/2024-09/index.jsp)
 - **Downloads**
