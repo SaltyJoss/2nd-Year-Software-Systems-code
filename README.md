@@ -153,6 +153,6 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   - Will be added after completion
 
 
-### Disclaimer
-
-All internal/external resources linked in this repository, such as PDFs or other materials, are the property of [Leeds Beckett University](https://www.leedsbeckett.ac.uk/). The code and scripts within this repository are my original work unless otherwise stated.
+> ### Disclaimer
+> 
+> All internal/external resources linked in this repository, such as PDFs or other materials, are the property of [Leeds Beckett University](https://www.leedsbeckett.ac.uk/). The code and scripts within this repository are my original work unless otherwise stated.
