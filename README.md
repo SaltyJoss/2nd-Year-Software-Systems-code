@@ -13,7 +13,7 @@
 
 ## *Personal* IDE Recommendations
 
-> #### *Disclaimer*
+> #### *Useful Note*
 >
 > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
 
