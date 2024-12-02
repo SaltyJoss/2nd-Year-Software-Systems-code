@@ -1,4 +1,4 @@
-# **Software Systems Module**
+# **Software Systems Development RESOURCES**
 
 <p align="center">
   <a href="https://github.com/SaltyJoss"><img src="assets/icons/icons8-github-40.svg" width="75" height="75" /></a>
@@ -75,6 +75,8 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 > [GeeksforGeeks](https://www.geeksforgeeks.org/java/w) ➜ W3Schools but different, some better insight for certain languages
 > 
 > [Reddit](https://www.reddit.com/r/java/) ➜ Try to avoid reddit, double check answers, look at dates if you use any ideas
+
+# **Local Directory Links for Work**
 
 ## Week 1 - Key Concepts of OOP
 
