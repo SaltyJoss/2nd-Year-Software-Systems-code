@@ -62,15 +62,15 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   
 ### **Community-Driven resources**
 > 
-> [Stack Overflow](https://stackoverflow.com/) -> Double check comments / answers, most people on here get mad at others for asking valid, normal questions
+> [Stack Overflow](https://stackoverflow.com/) ➜ Double check comments / answers, most people on here get mad at others for asking valid, normal questions
 > 
-> [GitHub Repos](https://github.com/trending/java) -> Use if you understand syntax but can't find the correct code  
+> [GitHub Repos](https://github.com/trending/java) ➜ Use if you understand syntax but can't find the correct code  
 > 
-> [W3Schools](https://www.w3schools.com/java/) -> Great and intuitive
+> [W3Schools](https://www.w3schools.com/java/) ➜ Great and intuitive
 > 
-> [GeeksforGeeks](https://www.geeksforgeeks.org/java/w) -> W3Schools but different, some better insight for certain languages
+> [GeeksforGeeks](https://www.geeksforgeeks.org/java/w) ➜ W3Schools but different, some better insight for certain languages
 > 
-> [Reddit](https://www.reddit.com/r/java/) -> Try to avoid reddit, double check answers, look at dates if you use any ideas
+> [Reddit](https://www.reddit.com/r/java/) ➜ Try to avoid reddit, double check answers, look at dates if you use any ideas
 
 ## Week 1 - Key Concepts of OOP
 
