@@ -65,17 +65,15 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 > Double check comments
 > [Stack Overflow](https://stackoverflow.com/)
 > 
-> Use if you understand syntax but can't find the correct code
-> [GitHub Repos](https://github.com/trending/java)
+> Use if you understand syntax but can't find the correct code  [GitHub Repos](https://github.com/trending/java)
 > 
-> Great and intuitive
-> [W3Schools](https://www.w3schools.com/java/)
+> Great and intuitive  [W3Schools](https://www.w3schools.com/java/)
 > 
 > W3Schools but different
 > [GeeksforGeeks](https://www.geeksforgeeks.org/java/w)
 > 
 > Try to avoid reddit, double check answers, look at dates if you use any ideas
-> [reddit](https://www.reddit.com/r/java/)
+> [Reddit](https://www.reddit.com/r/java/)
 
 ## Week 1 - Key Concepts of OOP
 
