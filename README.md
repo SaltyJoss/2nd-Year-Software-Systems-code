@@ -38,21 +38,27 @@
 
 The Exams are split into two separate assessments, both worth 50% of the final grade.
 <details>
+
 <summary>Assessment Details</summary>
-  - Assessment 1: (1 hour 30 mins) Timed UML-Based Practical Exercise
-  - Assessment 2: (1 hour) Timed Lab-Based exam
+
+- Assessment 1: (1 hour 30 mins) Timed UML-Based Practical Exercise
+- Assessment 2: (1 hour) Timed Lab-Based exam
+  
 </details>
   
-  <details>
-  <summary>README.md Summary</summary>
-  - Links to socials, useful resources
-  - Java resources and downloads
-  - IDE downloads and resources
-  - Basic summary of module
-  - List of directories, with basic description
-  - Explanation & breakdowns covered within respective directories
-  - Links to each source directory paths linked under the respective directories
-  </details>
+<details open>
+  
+<summary>README.md Summary</summary>
+  
+- Links to socials, useful resources
+- Java resources and downloads
+- IDE downloads and resources
+- Basic summary of module
+- List of directories, with basic description
+- Explanation & breakdowns covered within respective directories
+- Links to each source directory paths linked under the respective directories
+  
+</details>
   
   ### **Community-Driven resources**
   > Double check answers
