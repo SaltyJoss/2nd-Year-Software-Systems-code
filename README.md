@@ -1,5 +1,7 @@
 # **Software Systems Development RESOURCES**
 
+> ### Extra, useful, resources and download links are found here!
+
 <p align="center">
   <a href="https://github.com/SaltyJoss"><img src="assets/icons/icons8-github-40.svg" width="75" height="75" /></a>
   <a href="https://www.linkedin.com/in/joss-salton-153a5b157"><img src="assets/icons/icons8-linkedin.svg" width="75" height="75" /></a>
@@ -77,6 +79,8 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 > [Reddit](https://www.reddit.com/r/java/) ➜ Try to avoid reddit, double check answers, look at dates if you use any ideas
 
 # **Local Directory Links for Work**
+
+> ### Directory paths to the source files (where the actual code / JAVA files are kept) for each weeks labs!
 
 ## Week 1 - Key Concepts of OOP
 
