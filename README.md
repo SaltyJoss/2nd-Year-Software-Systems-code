@@ -110,15 +110,15 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   ### LAB_exe:
   - Covers Week 4 Labs
   - Source Files 
-  - [Lab_exe](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week4%20-%20Exception%20handling%20mechanisms/exe_lab/src/exe_lab)
+    - [Lab_exe](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week4%20-%20Exception%20handling%20mechanisms/exe_lab/src/exe_lab)
 
 ## Week 5 - Automated testing and Test Driven Development (TDD)
 
   ### LAB 5:
   - Covers Week 5 Labs
   - Source Files 
-  - [Lab_5](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week5%20-%20Automated%20testing%20and%20TDD/lab5/src/lab5)
-  - [Example_Test](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week5%20-%20Automated%20testing%20and%20TDD/lab5/src/com/example/test)
+    - [Lab_5](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week5%20-%20Automated%20testing%20and%20TDD/lab5/src/lab5)
+    - [Example_Test](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week5%20-%20Automated%20testing%20and%20TDD/lab5/src/com/example/test)
 
 ## Week 6/7 - Collections
 
