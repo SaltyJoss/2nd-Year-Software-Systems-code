@@ -14,12 +14,7 @@
 >
 > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
 
-<!-- ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:-->
-
-<div style="display: flex; align-items: center;">
-  <img src="assets/icons/icons8-java.svg" alt="Java Logo" style="height: 40px; margin-right: 10px;">
-  <h3>Java JDK/SE 23:</h3>
-</div>
+### ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:
 - [Home-Page](https://eclipseide.org/)
 - [Documentation](https://help.eclipse.org/2024-09/index.jsp)
 - **Downloads**
@@ -42,8 +37,12 @@
 
 >Within this module, we are aiming to extend on my University's Level 4 'Object Orientated Programming' module, by focusing on more functional and advanced programming techniques surrounding software systems, using JAVA. We look into many different Java / OOP *(Most concepts and algorithms are compatible with other OOP languages, there's just a syntax shift)* practices, and concepts that are utilized on all scales. We mainly code small, very basic ideas, knowing that it's largely transferable with much larger code-sets. Additionally, the weekly lab work, and given resources, allow for development in [**Computational-Thinking***](https://www.markdownguide.org/extended-syntax/#heading-ids), understanding and relating [**Syntax**](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)) against other languages, and general ability to [**Problem Solve**](https://en.wikipedia.org/wiki/Problem_solving). 
 
+<details>
 The Exams are split into two separate assessments, both worth 50% of the final grade.
-**Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise<br> **Component 2**: (1 hour) Timed Lab-Based exam
+<summary>Assessments</summary>
+- **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise
+- **Component 2**: (1 hour) Timed Lab-Based exam
+</details>  
   
   <details>
   <summary>README.md Summary</summary>
