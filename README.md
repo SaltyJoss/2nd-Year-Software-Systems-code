@@ -14,7 +14,8 @@
 >
 > Eclipse is the recommended IDE for this specific class, as it is used within the practical Examination
 
-<!-- ### ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:-->
+<!-- ![Eclipse Logo](assets/icons/icons8-java-eclipse-40.svg) Eclipse:-->
+
 <div style="display: flex; align-items: center;">
   <img src="assets/icons/icons8-java.svg" alt="Java Logo" style="height: 40px; margin-right: 10px;">
   <h3>Java JDK/SE 23:</h3>
@@ -45,7 +46,7 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 **Assessment 1**: (1 hour 30 mins) Timed UML-Based Practical Exercise<br> **Component 2**: (1 hour) Timed Lab-Based exam
   
   <details>
-  <summary>**README.md Summary**</summary>
+  <summary>README.md Summary</summary>
   - Links to socials, useful resources
   - Java resources and downloads
   - IDE downloads and resources
