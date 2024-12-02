@@ -3,7 +3,7 @@
 ### ![GitHub Logo](assets/icons/icons8-github-40.svg) [GitHub](https://github.com/SaltyJoss)
 ### ![LinkedIn](assets/icons/icons8-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/joss-salton-153a5b157)
 
-### ![Java Logo](assets/icons/icons8-java.svg)Java JDK/SE 23:
+### <img src="assets/icons/icons8-java.svg" alt="Java Logo" style="vertical-align: middle; width: 40px;"> Java JDK/SE 23:
 - [**Home Page**](https://docs.oracle.com/en/java/javase/23/)
 - [**Documentation**](https://docs.oracle.com/en/java/javase/23/docs/api/preview-list.html)
 - [**Download**](https://www.oracle.com/uk/java/technologies/downloads/)
