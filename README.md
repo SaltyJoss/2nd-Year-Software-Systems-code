@@ -41,8 +41,8 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 
 <summary>Assessment Details</summary>
 
-- Assessment 1: (1 hour 30 mins) Timed UML-Based Practical Exercise
-- Assessment 2: (1 hour) Timed Lab-Based exam
+1. **Assessment:** *(1 hour 30 mins)* Timed UML-Based Practical Exercise
+2. **Assessment:** *(1 hour)* Timed Lab-Based exam
   
 </details>
   
@@ -50,7 +50,7 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   
 <summary>README.md Summary</summary>
   
-- Links to socials, useful resources
+- Links to useful resources
 - Java resources and downloads
 - IDE downloads and resources
 - Basic summary of module
