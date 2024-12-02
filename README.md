@@ -1,6 +1,6 @@
 # **2nd-Year-Software-Systems-code**
 
-[![GitHub Logo](assets/icons/icons8-github-40.svg)](https://github.com/SaltyJoss) [![LinkedIn](assets/icons/icons8-linkedin.svg)](https://www.linkedin.com/in/joss-salton-153a5b157)
+<a href="https://github.com/SaltyJoss"><img src="assets/icons/icons8-github-40.svg" align="center" width="75" height="75" /></a> <a href="https://www.linkedin.com/in/joss-salton-153a5b157"><img src="assets/icons/icons8-linkedin.svg" align="center" width="75" height="75" /></a>
 
 ### Java JDK / SE 23: <img src="assets/icons/icons8-java.svg" alt="Java Logo" align="right" width="55" height="55" />
 - [**Home Page**](https://docs.oracle.com/en/java/javase/23/)
@@ -17,15 +17,15 @@
 - [Home-Page](https://eclipseide.org/)
 - [Documentation](https://help.eclipse.org/2024-09/index.jsp)
 - **Downloads**
-- ↳ [*All Languages*](https://www.eclipse.org/downloads/packages/installer)
-- ↳ [*Java*](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
+  - ↳ [*All Languages*](https://www.eclipse.org/downloads/packages/installer)
+  - ↳ [*Java*](https://www.eclipse.org/downloads/packages/release/2024-09/r/eclipse-ide-java-developers)
 
 ### IntelliJ: <img src="assets/icons/icons8-intellij-idea.svg" alt="IntelliJ IDEA Logo" align="right" width="50" height="50" />
 - [Home-Page](https://www.jetbrains.com/idea/)
 - [Documentation](https://www.jetbrains.com/idea/resources/)
 - **Downloads**
-↳ [*All Languages*](https://www.jetbrains.com/idea/download/other.html)
-↳ [*Java*](https://www.jetbrains.com/idea/download/?section=linux)
+  - ↳ [*All Languages*](https://www.jetbrains.com/idea/download/other.html)
+  - ↳ [*Java*](https://www.jetbrains.com/idea/download/?section=linux)
 
 ### NetBeans: <img src="assets/icons/icons8-apache-netbeans.svg" alt="NetBeans Logo" align="right" width="50" height="50" />
 - [Home-Page](https://netbeans.apache.org/front/main/index.html)
