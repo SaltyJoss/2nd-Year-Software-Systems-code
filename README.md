@@ -1,4 +1,4 @@
-# **2nd-Year-Software-Systems-code**
+# **Software Systems Module**
 
 <p align="center">
   <a href="https://github.com/SaltyJoss"><img src="assets/icons/icons8-github-40.svg" width="75" height="75" /></a>
@@ -136,8 +136,8 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   ### LAB 10 / 11:
   - Covers Week 9 Labs
   - Source Files 
-    - [Lab_10](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week9%20-%20Searching%20and%20Sorting)
-    - [Lab_11](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week9%20-%20Searching%20and%20Sorting)
+    - [Lab_10](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week9%20-%20Searching%20and%20Sorting/lab10/src/lab10)
+    - [Lab_11](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week9%20-%20Searching%20and%20Sorting/lab11/src/lab11)
 
 ## Week 10 - Functional Programming
 
