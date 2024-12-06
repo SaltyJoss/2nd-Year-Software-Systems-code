@@ -150,7 +150,6 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   - Covers Week 10 Labs
   - Source Files 
     - [Lab_12](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week10%20-%20Functional%20Programming)
-    - [Lab_13](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week10%20-%20Functional%20Programming)
 
 ## Week 11 - Practice Assessment
 
