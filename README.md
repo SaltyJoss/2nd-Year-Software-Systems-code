@@ -154,7 +154,7 @@ The Exams are split into two separate assessments, both worth 50% of the final g
 ## Week 11 - Practice Assessment
 
   ### Exam Preparation:
-  - 
+  - Mock exam, using TDD to fix code. Completed -> 30/30 = 100% TDD pass rate.
   - Source Files
     - [Vehicles](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week11%20-%20Practice%20Exam/Mock%20Assignment/SSD_2023_Mock_Assign/src/vehicles)
     - [Test](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week11%20-%20Practice%20Exam/Mock%20Assignment/SSD_2023_Mock_Assign/src/test)
