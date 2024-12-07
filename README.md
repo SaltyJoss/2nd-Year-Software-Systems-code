@@ -149,13 +149,16 @@ The Exams are split into two separate assessments, both worth 50% of the final g
   ### LAB 12 / 13:
   - Covers Week 10 Labs
   - Source Files 
-    - [Lab_12](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week10%20-%20Functional%20Programming)
+    - [Lab_12](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week10%20-%20Functional%20Programming/lab_12/src/lab_12)
 
 ## Week 11 - Practice Assessment
 
   ### Exam Preparation:
-  - Will be added after completion
-
+  - 
+  - Source Files
+    - [Vehicles](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week11%20-%20Practice%20Exam/Mock%20Assignment/SSD_2023_Mock_Assign/src/vehicles)
+    - [Test](https://github.com/SaltyJoss/2nd-Year-Software-Systems-code/tree/Main/Week11%20-%20Practice%20Exam/Mock%20Assignment/SSD_2023_Mock_Assign/src/test)
+        
 
 > ### Disclaimer
 > 
